@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21933" started-at="2018-08-04T16:18:43Z" finished-at="2018-08-04T16:19:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21933" started-at="2018-08-04T16:18:43Z" finished-at="2018-08-04T16:19:05Z">
+      <class name="chicagoHomework.HoverOverWebElementLoop">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:chicagoHomework.HoverOverWebElementLoop@685cb137]" name="setUp" is-config="true" duration-ms="5641" started-at="2018-08-04T16:18:43Z" finished-at="2018-08-04T16:18:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigator()[pri:0, instance:chicagoHomework.HoverOverWebElementLoop@685cb137]" name="navigator" duration-ms="16239" started-at="2018-08-04T16:18:49Z" finished-at="2018-08-04T16:19:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigator -->
+      </class> <!-- chicagoHomework.HoverOverWebElementLoop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
